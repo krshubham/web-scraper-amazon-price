@@ -1,0 +1,14 @@
+{
+  "name": "web-scraper-amazon-price",
+  "version": "1.0.0",
+  "description": "An amazon price tracker",
+  "main": "scraper.js",
+  "repository": "https://github.com/krshubham/web-scraper-amazon-price.git",
+  "author": "Kumar Shubham <kumar.shubham@appdynamics.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-notifier": "^9.0.0",
+    "puppeteer": "^5.5.0"
+  }
+}
